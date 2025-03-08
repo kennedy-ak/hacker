@@ -159,10 +159,10 @@ def main():
         <div style="margin-top: 15px; padding: 15px; background-color: #172554; border-radius: 8px; border: 1px solid #1E40AF;">
             <h4 style="color: #60A5FA;">How the System Works</h4>
             <p style="color: #CBD5E1; font-size: 0.9rem;">
-                <strong>📰 News Source:</strong> We  the most popular and relevant articles from <a href="https://news.ycombinator.com" style="color: #93C5FD;">Hacker News</a>, a trusted community-driven platform for tech enthusiasts.
+                <strong>📰 News Source:</strong> We  get the most popular and relevant articles from <a href="https://news.ycombinator.com" style="color: #93C5FD;">Hacker News</a>, a trusted  platform for tech enthusiasts.
             </p>
             <p style="color: #CBD5E1; font-size: 0.9rem;">
-                <strong>🔍 Selection Process:</strong> Our algorithm automatically selects the highest-voted article of the day, ensuring you only receive content that the tech community finds valuable and interesting.
+                <strong>🔍 Selection Process:</strong> The system automatically selects the highest-voted article of the day, ensuring you only receive content that the tech community finds valuable and interesting.
             </p>
             <p style="color: #CBD5E1; font-size: 0.9rem;">
                 <strong>⏰ Delivery:</strong> Each newsletter is delivered directly to your inbox daily, keeping you consistently updated without overwhelming you with too much content.
