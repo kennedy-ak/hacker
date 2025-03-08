@@ -229,7 +229,7 @@ Today's Top Article:
 {get_top_article()[0]}
 
 I am excited to have you join my tech community!
-
+As a promise to you, I will constantly working to improve this service and provide even more value to subscribers like you.
 
 Cheers,
 Kennedy - AI/LLM engineer.
