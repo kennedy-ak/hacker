@@ -223,12 +223,13 @@ def main():
 
 Thank you for subscribing to my Tech News service! 🎉
 
-You'll now receive daily updates on the lastest tech trends directly in your inbox. I have curates the most interesting and impactful stories from around the tech world to keep you informed.
+You'll now receive daily updates on the lastest tech trends directly in your inbox. I have curated the most interesting and impactful stories from around the tech world to keep you informed.
 
 Today's Top Article:
 {get_top_article()[0]}
 
 I am excited to have you join my tech community!
+
 
 Cheers,
 Kennedy - AI/LLM engineer.
