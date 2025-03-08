@@ -218,7 +218,7 @@ def main():
                         """, unsafe_allow_html=True)
                         
                         # Send a welcome email
-                        welcome_subject = "Welcome to Tech News Subscription!"
+                        welcome_subject = "Welcome to My Tech News Subscription!"
                         welcome_message = f"""Hi {name},
 
 Thank you for subscribing to my Tech News service! 🎉
